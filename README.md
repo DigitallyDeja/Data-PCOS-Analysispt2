@@ -1,5 +1,5 @@
 # Data-PCOS-Analysispt2
-This is a follow up to the Data-PCOS-Analysis part one project. This project is utilizing the previous Excel data and it is extracted through Tableau. Also, the KPIs differ from the Excel PCOS interactive dashboard as it shows a unique angle into the data's findings.
+This is a follow up to the <a href="https://github.com/DigitallyDeja/Data-PCOS-Analysis">Data-PCOS-Analysis part one project</a>. This project is utilizing the previous Excel data and it is extracted through Tableau. The KPIs highlights a different angle in business questions, and as a result this alters analysis priorities.
 
 ## Questions KPIs
 ### Summary KPIs
