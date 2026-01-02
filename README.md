@@ -1,9 +1,10 @@
 # Data-PCOS-Analysispt2
-
+This is a follow up to the Data-PCOS-Analysis part one project. This project is utilizing the previous Excel data and it is extracted through Tableau. Also, the KPIs differ from the Excel PCOS interactive dashboard as it shows a unique angle into the data's findings.
 
 ## Questions KPIs
 ### Summary KPIs
 - What is the total of participants?
+- 
   
 ### Core KPIs
 - What is the PCOS Status among participants (Yes, No, Not diagnosed)?
